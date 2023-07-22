@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mitul Goswami",
-  title: "Aspiring SDE | Tech Enthusiast and Passionate Developer ",
+  title: "Aspiring SDE & Passionate Developer ",
   email: "mitulgoswami1212@gmail.com",
   gitHub: "https://github.com/mitul-goswami",
   instagram: "https://instagram.com/mitul__95__?igshid=ZDc4ODBmNjlmNQ==",
