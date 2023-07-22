@@ -29,30 +29,36 @@ const imageAltText = "desktop with books and laptop";
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
-const projectList = [
+ const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Fashion MNIST Model",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "It is a Fashion MNIST Model which is trained on the Fashion MNIST Dataset and is able to predict the class of the image with an accuracy.",
+    url: "https://github.com/mitul-goswami/Machine-Learning--Projects/blob/main/FMNIST.py",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Stone Paper Scissor Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is a stone paper scissors game which is made using python and is played between the user and the computer.",
+    url: "https://github.com/mitul-goswami/Python-Projects/blob/main/Stone-Paper-Scissors.py",
   },
   {
-    title: "My Resume Site",
+    title: "Ludo Game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "It is a ludo game which is made using C and is played between the user and the computer.",
+    url: "https://github.com/mitul-goswami/C-Projects/blob/main/ludo.c",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Heart Disease Prediction Using SVM Model With Quantization Techniques",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It is a Heart Disease Prediction Model which is trained on the Heart Disease Dataset and is able to predict the class of the image with an accuracy.",
+    url: "https://colab.research.google.com/drive/1s0TZ2_ve8-uoZ7MHkOKXu2MyClVfxn4m?usp=sharing",
+  },
+  {
+    title: "Breast Cancer Detection Using KNN Model With Quantization Techniques",
+    description:
+      "It is a Breast Cancer Detection Model which is trained on the Breast Cancer Dataset and is able to predict the class of the image with an accuracy.",
+    url: "https://colab.research.google.com/drive/1zKLQPrvp9bqjjQzUR8wavf07qVAEzbQi?usp=sharing",
   },
 ];
 
