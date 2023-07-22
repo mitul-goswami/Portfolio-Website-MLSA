@@ -33,10 +33,10 @@ const description =
 const skillsList = [
   "Machine Learning",
   "Python Programming",
-  "Data Structures And Algorithms",
   "C++ Programming",
-  "Communication",
-  "",
+  "DSA",
+  "Data Science",
+  "Communication Skills",
 ];
 
 /**
