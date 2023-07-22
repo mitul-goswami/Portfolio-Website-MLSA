@@ -6,7 +6,7 @@
  */
 
 import React from "react";
-import arrowSvg from "src/images/pexels-felix-mittermeier-956999.jpg";
+import arrowSvg from "src/images/down-arrow.svg";
 import PropTypes from "prop-types";
 
 /**
@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "src/images/pexels-felix-mittermeier-956999.jpg";
 
 const imageAltText = "Ath Microsoft Surface Pen";
 
