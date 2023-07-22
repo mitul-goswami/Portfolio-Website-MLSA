@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "ALPHA - Microsoft LSA ⭐ || Technical Executive - Microsoft Learn Student Ambassadors, KIIT Chapter || AI-ML Developer - Geeks For Geeks, KIIT Chapter || Harvard HPAIR '23 ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Machine Learning",
+  "Python Programming",
+  "Data Structures And Algorithms",
+  "C++ Programming",
+  "Communication",
+  "",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Tech enthusiast and passionate developer from Kolkata, West Bengal, with a diverse background in both research and corporate domains. Proficient in programming with Python and experienced in developing machine learning and deep learning models. Recognized for contributions in the field with IEEE Conference research papers and a patent filed with the Government of India. Specialized in research areas such as machine learning, artificial intelligence, deep learning, and natural language processing. Committed to leveraging cutting-edge technologies to solve complex problems and drive innovation. Strong analytical skills and a collaborative approach to achieving impactful results.";
 
 const About = () => {
   return (
