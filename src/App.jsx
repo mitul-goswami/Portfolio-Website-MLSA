@@ -25,12 +25,12 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mitul Goswami",
-  title: "Aspiring SDE & Passionate Developer ",
+  title: " Aspiring SDE ",
   email: "mitulgoswami1212@gmail.com",
   gitHub: "https://github.com/mitul-goswami",
-  instagram: "https://instagram.com/mitul__95__?igshid=ZDc4ODBmNjlmNQ==",
-  linkedIn: "https://www.linkedin.com/in/mitul-goswami-a6114b230/",
-  medium: "https://medium.com/@mitulgoswami1212",
+  instagram: "/mitul__95__?igshid=ZDc4ODBmNjlmNQ==",
+  linkedIn: "/mitul-goswami-a6114b230/",
+  medium: "mitulgoswami1212",
   twitter: "",
   youTube: "",
 };
