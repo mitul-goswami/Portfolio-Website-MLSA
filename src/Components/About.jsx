@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "ALPHA - Microsoft LSA ⭐ || Technical Executive - Microsoft Learn Student Ambassadors, KIIT Chapter || AI-ML Developer - Geeks For Geeks, KIIT Chapter || Harvard HPAIR '23 ";
+  "BETA - Microsoft LSA ⭐ || Technical Executive - Microsoft Learn Student Ambassadors, KIIT Chapter || AI-ML Developer - Geeks For Geeks, KIIT Chapter || Harvard HPAIR '23 ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
